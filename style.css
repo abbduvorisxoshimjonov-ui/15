@@ -1,0 +1,459 @@
+.ota {
+    display: flex;
+    width: 800px;
+    height: 600px;
+    background-color: white;
+    border: 2px solid;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 5px;
+    border-radius: 5px;
+
+}
+
+.bir {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px;
+    background-color: #F7941F;
+
+}
+
+.ikki {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px;
+    background-color: #F7941F;
+}
+
+.uch {
+
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+
+.box1 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    padding-top: 8px;
+    padding-left: 8px;
+    border-radius: 5px;
+}
+
+.tor,
+.besh {
+    margin-bottom: 10px;
+}
+
+
+.box2 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    flex-wrap: wrap;
+gap: 8px;
+ border-radius: 5px;
+}
+
+
+.box3 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 8px;
+    gap: 5px;
+     border-radius: 5px;
+
+}
+
+.box4 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 3px;
+     border-radius: 5px;
+
+}
+
+.box5 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    gap: 5px;
+    justify-content: end;
+    padding-right: 4px;
+     border-radius: 5px;
+
+}
+
+.box6 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    padding-top: 6px;
+     border-radius: 5px;
+
+}
+
+.box7 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 3px;
+    padding-left: 5px;
+    padding-top: 8px;
+     border-radius: 5px;
+
+
+}
+
+.box8 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    gap: 8px;
+    padding-left:5px ;
+    padding-top: 8px;
+     border-radius: 5px;
+
+}
+
+.box9 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    align-items: end;
+    gap: 6px;
+    padding-left: 6px;
+    padding-bottom: 8px;
+     border-radius: 5px;
+
+}
+
+.box10 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding-left: 6px;
+     border-radius: 5px;
+
+}
+
+.box11 {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+    display: flex;
+    gap: 2px;
+    justify-content: space-evenly;
+    padding-top: 8px;
+     border-radius: 5px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: #995DB5;
+
+}
+
+.tor {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.besh {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.olti {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+
+}
+
+.yetti {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.sakkiz {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.toqqiz {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.on {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.onbir {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.onikki {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.onuch {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.ontor {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.onbesh {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.onolti {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.onyetti {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.onsakkiz {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.ontoqqiz {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.yigirma {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+
+.yigirmabir {
+    width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: #F7941F;
+}
+.yigirmaikki{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.yigirmauch{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.yigirmator{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.yigirmabesh{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.yigirmaolti{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.yigirmayetti{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.yigirmasakkiz{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.yigirmatoqqiz{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.ottiz{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.ottizbir{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.ottizikki{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.ottizuch{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.ottiztor{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.ottizbesh{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.ottizolti{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.ottizyetti{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+.ottizsakkiz{
+      width: 40px;
+    height: 40px;
+    border: 1px;
+    border-radius: 8px;
+    background-color:#F7941F;
+}
+
